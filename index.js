@@ -1,2 +1,2 @@
 // Write your solution in this file!
-var customerName = "Tim"
+var customerName = "bob"
